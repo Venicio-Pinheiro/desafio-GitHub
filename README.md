@@ -2,6 +2,6 @@
 Desafio de projeto sobre Git/GitHub
 
 
-## Links Uteis
+## Links Úteis
 
 [Sintax básica MarkDown](https://www.markdownguide.org/basic-syntax/)
